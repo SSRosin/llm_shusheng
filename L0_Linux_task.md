@@ -1,1 +1,1 @@
-(./images/ssh-1.png)
+# (./images/ssh-1.png)
