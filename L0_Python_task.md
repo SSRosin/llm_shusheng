@@ -19,3 +19,4 @@
         word_count[word] += 1
 
     return dict(word_count)
+# 运行结果
