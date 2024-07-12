@@ -22,3 +22,5 @@
 # 运行结果
 ![GitHub Logo](./images/python_result.png)
 # 调试过程
+# 首先设置断点，并开启调试
+![GitHub Logo](./images/断点.png)
