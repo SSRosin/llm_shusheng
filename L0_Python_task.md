@@ -1,5 +1,5 @@
 
-# Python 实现wordcount
+# 一.Python 实现wordcount
     # import re
     from collections import defaultdict
 
@@ -22,8 +22,10 @@
 # 运行结果
 ![GitHub Logo](./images/python_result.png)
 
-# 调试过程
-# 首先设置断点，并开启调试
+# 二.调试过程
+# 1.首先设置断点，并开启调试
 ![GitHub Logo](./images/断点.png)
-# 点击不同的功能按钮，实现不同的操作，如单步执行我的代码，会一行一行执行
+# 2.点击不同的功能按钮，实现不同的操作
+    如单步执行我的代码，会一行一行执行
 ![GitHub Logo](./images/单步.png)
+# 
