@@ -20,3 +20,4 @@
 
     return dict(word_count)
 # 运行结果
+![GitHub Logo](./images/python_result.png)
