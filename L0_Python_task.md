@@ -1,10 +1,10 @@
 
 # Python 实现wordcount
-import re
-from collections import defaultdict
+    # import re
+    from collections import defaultdict
 
 
-def wordcount(text):
+    def wordcount(text):
     # 去掉标点符号并将所有单词转换成小写
     text = text.lower()
     text = re.sub(r'[^\w\s]', '', text)
